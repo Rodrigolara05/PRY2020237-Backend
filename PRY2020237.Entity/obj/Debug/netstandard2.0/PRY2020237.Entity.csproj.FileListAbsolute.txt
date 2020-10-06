@@ -1,0 +1,44 @@
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.deps.json
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.dll
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.pdb
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csprojAssemblyReference.cache
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfoInputs.cache
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfo.cs
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.dll
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.deps.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csprojAssemblyReference.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfoInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfo.cs
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csproj.CoreCompileInputs.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.deps.json
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.pdb
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csprojAssemblyReference.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfoInputs.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfo.cs
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csproj.CoreCompileInputs.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.deps.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csprojAssemblyReference.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfoInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfo.cs
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csproj.CoreCompileInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.deps.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\bin\Debug\netstandard2.0\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csprojAssemblyReference.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfoInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.AssemblyInfo.cs
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.csproj.CoreCompileInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Entity\obj\Debug\netstandard2.0\PRY2020237.Entity.pdb

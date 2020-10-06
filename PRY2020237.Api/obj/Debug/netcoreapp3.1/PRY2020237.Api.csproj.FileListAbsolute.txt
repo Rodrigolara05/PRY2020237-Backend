@@ -1,0 +1,303 @@
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.exe
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.deps.json
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.json
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.dev.json
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.dll
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.dll
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.dll
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.dll
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.pdb
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.pdb
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.pdb
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csprojAssemblyReference.cache
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.Manifest.cache
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.xml
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfoInputs.cache
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfo.cs
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.RazorTargetAssemblyInfo.cache
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CopyComplete
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.dll
+D:\TALLER DE PROYECTO 1\PROYECTO-WEB\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.exe
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.deps.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.dev.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csprojAssemblyReference.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfoInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfo.cs
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.RazorTargetAssemblyInfo.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CopyComplete
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.Manifest.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.xml
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CoreCompileInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.genruntimeconfig.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO2-12-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.exe
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.deps.json
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.json
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.dev.json
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.pdb
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.pdb
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.pdb
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csprojAssemblyReference.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfoInputs.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfo.cs
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CoreCompileInputs.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.RazorTargetAssemblyInfo.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CopyComplete
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.Manifest.cache
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.xml
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.dll
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+E:\maxla\Documents\TP-Project\PRY2020237\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.genruntimeconfig.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csprojAssemblyReference.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfoInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfo.cs
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CoreCompileInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.exe
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.deps.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.dev.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.RazorTargetAssemblyInfo.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CopyComplete
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.Manifest.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.xml
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO3-18-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.genruntimeconfig.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.exe
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.deps.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.runtimeconfig.dev.json
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Entity.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Service.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\bin\Debug\netcoreapp3.1\PRY2020237.Repository.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csprojAssemblyReference.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfoInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.AssemblyInfo.cs
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CoreCompileInputs.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.RazorTargetAssemblyInfo.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.csproj.CopyComplete
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.Manifest.cache
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\staticwebassets\PRY2020237.Api.StaticWebAssets.xml
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.dll
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.pdb
+D:\1.TALLER DE PROYECTO 1\PROYECTOS-CLONADOS\PROYECTO4-25-09-2020\Backend\PRY2020237.Api\obj\Debug\netcoreapp3.1\PRY2020237.Api.genruntimeconfig.cache
